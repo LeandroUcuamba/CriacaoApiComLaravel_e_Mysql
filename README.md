@@ -17,7 +17,7 @@ Para rodar este software na sua maquina, você precisa fazer a instalação do V
 ## 🛠️ Construído com
 
 * [Laravel]
-* [SQLServer]
+* [MySQL]
 * [HTML]
 * [CSS]
 * [JS]
